@@ -29,7 +29,7 @@ We use hightly secure hird party services like Google Analytics, Google AdSense,
 
 ## Sharing your personal information
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided.
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business. We may share your information with these third parties for those limited purposes provided.
 
 ## Changes to this privacy policy
 
@@ -50,4 +50,4 @@ Andrey Nikishaev
 
 creotiv@gmail.com
 
-This document was last updated on February 3, 2017.
+This document was last updated on February 7, 2017.
