@@ -18,6 +18,7 @@ We may collect non-personal identification information about Users whenever they
 
 App may collect and use Users personal information for the following purposes:
 
+* To make App work properly.
 * To improve customer service. Information you provide helps us respond to your customer service requests and support needs more efficiently.
 * To improve our App. We may use feedback you provide to improve our products and services.
 * To show more targatable ad for you. We may use some information to show you more interesting ad for you.
